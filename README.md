@@ -54,21 +54,21 @@ Currently working on projects for **Meta Quest 3** and interactive applications.
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebastian1307&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian1307&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </p>
 
 ---
 
 ## 📫 Contact Me
 <p>
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://linkedin.com/in/sbeltrand">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:sbeltrand07@gmail.com>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://tusitio.com">
+  <a href="https://sbeltran-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
   </a>
 </p>
