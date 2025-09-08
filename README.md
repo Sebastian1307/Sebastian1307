@@ -52,14 +52,6 @@ Currently working on projects for **Meta Quest 3** and interactive applications.
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebastian1307&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian1307&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
-
----
-
 ## 📫 Contact Me
 <p>
   <a href="https://linkedin.com/in/sbeltrand">
